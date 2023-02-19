@@ -1,2 +1,2 @@
-# habpanel-widgets
-A collection of custom HABPanel widgets.
+# habpanel-lights
+A slider widgets for HABPanel.
